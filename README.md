@@ -1,8 +1,8 @@
 <div align="center">
 
-![Paul Mosincat Banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,55:2563eb,100:14b8a6&text=Paul%20Mosincat&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=56&desc=Systems%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Automation%20%E2%80%A2%20Data&descAlign=50&descAlignY=58&descSize=18)
+<img src="assets/github-profile-banner.svg" alt="Paul Mosincat - Systems, Infrastructure, Automation, Data" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Computer+Science+Student+%40+Illinois+Tech;Building+Real-World+Technical+Systems;Infrastructure+%E2%86%92+Data+%E2%86%92+Decisions;Networking+%E2%80%A2+Automation+%E2%80%A2+IoT;From+Hardware+to+Software;Engineering+Through+Iteration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2600&pause=850&color=14B8A6&center=true&vCenter=true&width=760&lines=Systems+Thinking+for+Real+Infrastructure;Infrastructure+That+Connects+People+and+Data;Automation+for+Repeatable+Technical+Workflows;Data-Driven+Decisions+from+Real+Systems;Networks%2C+Devices%2C+and+Services+in+Sync;Iterate%2C+Document%2C+Improve%2C+Deploy)](https://git.io/typing-svg)
 
 </div>
 
@@ -101,9 +101,8 @@ Low-level programming project implementing Tetris using assembly language concep
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-Paul%20Mosincat-181717?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-PaulMosincat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PaulMosincat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Mosincat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-mosincat-iit/)
 
 </div>
 
