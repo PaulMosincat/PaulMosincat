@@ -1,0 +1,129 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#08111f"/>
+      <stop offset="0.42" stop-color="#0f2f55"/>
+      <stop offset="0.72" stop-color="#071527"/>
+      <stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#glow)" opacity="0.35"/>
+
+  <g opacity="0.22">
+    <path d="M0 72H1280M0 128H1280M0 184H1280M0 240H1280" stroke="#60a5fa" stroke-width="1"/>
+    <path d="M96 0V320M208 0V320M320 0V320M432 0V320M544 0V320M656 0V320M768 0V320M880 0V320M992 0V320M1104 0V320M1216 0V320" stroke="#60a5fa" stroke-width="1"/>
+  </g>
+
+  <g opacity="0.95">
+    <path d="M0 230C78 218 122 204 184 206C260 209 294 238 378 226C426 219 466 204 512 198" stroke="#38bdf8" stroke-width="2" opacity="0.55"/>
+    <path d="M0 255C78 242 131 232 197 236C272 240 313 265 398 254C460 246 502 224 560 218" stroke="#14b8a6" stroke-width="2" opacity="0.45"/>
+  </g>
+
+  <g opacity="0.82">
+    <rect x="32" y="168" width="30" height="98" fill="#0f2744"/>
+    <rect x="70" y="132" width="45" height="134" fill="#102b4c"/>
+    <rect x="128" y="102" width="34" height="164" fill="#15365c"/>
+    <rect x="174" y="154" width="52" height="112" fill="#0e2440"/>
+    <rect x="239" y="118" width="39" height="148" fill="#123055"/>
+    <rect x="292" y="82" width="58" height="184" fill="#0d223d"/>
+    <rect x="363" y="145" width="42" height="121" fill="#14365e"/>
+    <rect x="418" y="110" width="34" height="156" fill="#0e2748"/>
+    <path d="M32 180H452" stroke="#7dd3fc" stroke-width="1" opacity="0.22"/>
+    <g fill="#93c5fd" opacity="0.72">
+      <rect x="84" y="148" width="6" height="6"/>
+      <rect x="98" y="148" width="6" height="6"/>
+      <rect x="140" y="120" width="6" height="6"/>
+      <rect x="190" y="170" width="6" height="6"/>
+      <rect x="306" y="102" width="6" height="6"/>
+      <rect x="326" y="102" width="6" height="6"/>
+      <rect x="376" y="162" width="6" height="6"/>
+      <rect x="430" y="128" width="6" height="6"/>
+    </g>
+  </g>
+
+  <g opacity="0.9">
+    <path d="M70 266H450" stroke="#e5e7eb" stroke-width="2"/>
+    <path d="M95 286H422" stroke="#64748b" stroke-width="6" stroke-linecap="round"/>
+    <path d="M126 265L92 286M183 265L150 286M240 265L207 286M297 265L264 286M354 265L321 286M411 265L378 286" stroke="#94a3b8" stroke-width="2"/>
+    <rect x="126" y="226" width="154" height="38" rx="12" fill="#dbeafe" opacity="0.92"/>
+    <path d="M148 226L132 264H108L123 226H148Z" fill="#ef4444" opacity="0.85"/>
+    <rect x="162" y="236" width="78" height="13" rx="4" fill="#0f172a" opacity="0.72"/>
+    <circle cx="134" cy="254" r="5" fill="#f8fafc" filter="url(#softGlow)"/>
+    <circle cx="264" cy="254" r="5" fill="#f8fafc" filter="url(#softGlow)"/>
+  </g>
+
+  <g opacity="0.55">
+    <path d="M92 82L178 44L268 88L348 42L448 88L548 50" stroke="#bfdbfe" stroke-width="1.5"/>
+    <circle cx="92" cy="82" r="5" fill="#bfdbfe"/>
+    <circle cx="178" cy="44" r="5" fill="#bfdbfe"/>
+    <circle cx="268" cy="88" r="5" fill="#bfdbfe"/>
+    <circle cx="348" cy="42" r="5" fill="#bfdbfe"/>
+    <circle cx="448" cy="88" r="5" fill="#bfdbfe"/>
+    <circle cx="548" cy="50" r="5" fill="#bfdbfe"/>
+  </g>
+
+  <g>
+    <rect x="470" y="54" width="340" height="212" rx="24" fill="#020617" opacity="0.62" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <text x="640" y="114" text-anchor="middle" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="4">PAUL MOSINCAT</text>
+    <text x="640" y="151" text-anchor="middle" fill="#93c5fd" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="2">COMPUTER SCIENCE @ ILLINOIS TECH</text>
+    <line x1="516" y1="176" x2="764" y2="176" stroke="url(#cyan)" stroke-width="2"/>
+    <text x="640" y="213" text-anchor="middle" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="3">SYSTEMS  •  INFRASTRUCTURE</text>
+    <text x="640" y="244" text-anchor="middle" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="3">AUTOMATION  •  DATA</text>
+  </g>
+
+  <g transform="translate(854 48)" opacity="0.94">
+    <rect x="0" y="0" width="96" height="224" rx="12" fill="#071a30" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <rect x="18" y="22" width="60" height="20" rx="4" fill="#123b65"/>
+    <rect x="18" y="58" width="60" height="20" rx="4" fill="#123b65"/>
+    <rect x="18" y="94" width="60" height="20" rx="4" fill="#123b65"/>
+    <rect x="18" y="130" width="60" height="20" rx="4" fill="#123b65"/>
+    <rect x="18" y="166" width="60" height="20" rx="4" fill="#123b65"/>
+    <circle cx="30" cy="32" r="3" fill="#22d3ee" filter="url(#softGlow)"/>
+    <circle cx="30" cy="68" r="3" fill="#22d3ee" filter="url(#softGlow)"/>
+    <circle cx="30" cy="104" r="3" fill="#22d3ee" filter="url(#softGlow)"/>
+    <circle cx="30" cy="140" r="3" fill="#22d3ee" filter="url(#softGlow)"/>
+    <circle cx="30" cy="176" r="3" fill="#22d3ee" filter="url(#softGlow)"/>
+  </g>
+
+  <g transform="translate(1000 58)" stroke="#93c5fd" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.82">
+    <path d="M64 30C64 17 53 6 40 6C29 6 20 13 17 23C8 24 0 32 0 42C0 52 8 60 18 60H76C88 60 98 50 98 38C98 26 88 16 76 16C71 16 67 18 64 20"/>
+    <path d="M49 60V91M18 91H80M18 91V114M49 91V114M80 91V114"/>
+    <rect x="5" y="114" width="26" height="16" rx="3"/>
+    <rect x="36" y="114" width="26" height="16" rx="3"/>
+    <rect x="67" y="114" width="26" height="16" rx="3"/>
+  </g>
+
+  <g transform="translate(1102 178)" opacity="0.85">
+    <rect x="0" y="0" width="134" height="78" rx="10" fill="#071a30" stroke="#38bdf8" stroke-opacity="0.42"/>
+    <path d="M20 54V40M42 54V30M64 54V22M86 54V34M108 54V16" stroke="url(#teal)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M16 22H56M16 34H38M16 46H50" stroke="#bfdbfe" stroke-width="2" opacity="0.7"/>
+  </g>
+
+  <g transform="translate(890 280)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#bfdbfe" opacity="0.85">
+    <text x="0" y="0">NETWORKS</text>
+    <text x="108" y="0">SERVERS</text>
+    <text x="208" y="0">IOT</text>
+    <text x="272" y="0">DECISIONS</text>
+  </g>
+</svg>
