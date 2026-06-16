@@ -76,6 +76,42 @@ Low-level programming project implementing Tetris using assembly language concep
 
 **Focus areas:** assembly programming, memory-level thinking, game logic, low-level systems
 
+### RISC-V Mastermind Game
+
+Console-based Mastermind game developed in **RISC-V assembly** using **RARS**. Implemented random code generation with digits 1-6 and no repeats, input validation, and a full game loop with black/white feedback logic.
+
+**Associated with:** Illinois Institute of Technology  
+**Timeline:** Mar 2026 - Apr 2026  
+**Focus areas:** RISC-V assembly, low-level control flow, register management, debugging
+
+### FPGA Digital System Design
+
+Series of FPGA-based digital system design labs using **VHDL** and the **Vivado Design Suite**. Designed and implemented multiple systems including a code converter, ripple-carry adder/subtractor, and a traffic light controller.
+
+Worked with FPGA hardware, breadboarding, and seven-segment displays to test and verify functionality, with emphasis on debugging, simulation, and translating logic designs into programmable hardware.
+
+**Associated with:** Illinois Institute of Technology  
+**Timeline:** Nov 2025 - Dec 2025  
+**Focus areas:** VHDL, FPGA systems, digital design, finite state machines, hardware implementation
+
+### Data Sorter
+
+Java-based data sorting and order management system that processes and organizes structured input files. The project applies object-oriented programming principles including inheritance, polymorphism, and custom exception handling to manage different order types.
+
+**Associated with:** Illinois Institute of Technology  
+**Timeline:** Jan 2025 - May 2025  
+**Focus areas:** Java, data processing, object-oriented design, file input handling, modular software design
+
+### Urban Transit Systems Analysis
+
+Course-based research project analyzing global transit systems in London, Singapore, Tokyo, and Chicago. Explored how technology, government policy, and system design influence transit performance, efficiency, and modernization.
+
+Compared approaches such as AI-driven systems, biomimicry-based planning, and traditional infrastructure while connecting technical systems to real-world public outcomes.
+
+**Associated with:** Illinois Institute of Technology  
+**Timeline:** Mar 2025 - May 2025  
+**Focus areas:** systems analysis, infrastructure research, analytical writing, transit modernization
+
 ---
 
 ## Certifications & Training
