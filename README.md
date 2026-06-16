@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="github-profile/github-profile-banner.svg" alt="Paul Mosincat - Systems, Infrastructure, Automation, Data" width="100%" />
+<img src="github-profile-banner.svg" alt="Paul Mosincat - Systems, Infrastructure, Automation, Data" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2600&pause=850&color=14B8A6&center=true&vCenter=true&width=760&lines=Systems+Thinking+for+Real+Infrastructure;Infrastructure+That+Connects+People+and+Data;Automation+for+Repeatable+Technical+Workflows;Data-Driven+Decisions+from+Real+Systems;Networks%2C+Devices%2C+and+Services+in+Sync;Iterate%2C+Document%2C+Improve%2C+Deploy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2600&pause=850&color=14B8A6&center=true&vCenter=true&width=1000&lines=Systems+Thinking+for+Real+Infrastructure;Infrastructure+That+Connects+People+and+Data;Automation+for+Repeatable+Technical+Workflows;Data-Driven+Decisions+from+Real+Systems;Networks%2C+Devices%2C+and+Services+in+Sync;Iterate%2C+Document%2C+Improve%2C+Deploy)](https://git.io/typing-svg)
 
 </div>
 
