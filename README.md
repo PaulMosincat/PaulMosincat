@@ -2,7 +2,7 @@
 
 <img src="github-profile-banner.svg" alt="Paul Mosincat - Systems, Infrastructure, Automation, Data" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2600&pause=850&color=14B8A6&center=true&vCenter=true&width=1000&lines=Systems+Thinking+for+Real+Infrastructure;Infrastructure+That+Connects+People+and+Data;Automation+for+Repeatable+Technical+Workflows;Data-Driven+Decisions+from+Real+Systems;Networks%2C+Devices%2C+and+Services+in+Sync;Iterate%2C+Document%2C+Improve%2C+Deploy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Infrastructure+That+Connects+People%2C+Systems%2C+and+Data;Systems+Built+Through+Documentation+and+Iteration;Automation+for+Repeatable+Technical+Workflows;Networking+%E2%86%92+Infrastructure+%E2%86%92+Data+%E2%86%92+Decisions;From+Hardware+Inventory+to+Software+Solutions;Learning+by+Building+Real-World+Technical+Systems)](https://git.io/typing-svg)
 
 </div>
 
